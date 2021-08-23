@@ -27,6 +27,8 @@ Or numbered lists:
 
 Finally we can make [hyperlinks](www.google.com) like so. 
 
+Let's make a change.
+
 ```{r}
 2+2
 ```
