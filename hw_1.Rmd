@@ -5,7 +5,7 @@ output: github_document
 
 # Section 1
 
-We can write some text in markdown.
+We can write some text in markdown. Here's an addition.
 
 ## Subsection 2
 
