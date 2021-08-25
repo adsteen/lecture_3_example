@@ -3,7 +3,7 @@ In class example, lecture 3
 
 # Section 1
 
-We can write some text in markdown.
+We can write some text in markdown. Here’s an addition.
 
 ## Subsection 2
 
@@ -26,6 +26,7 @@ Or numbered lists:
 
 Finally we can make [hyperlinks](www.google.com) like so.
 
+Let’s make a change.
 
 ``` r
 2+2
